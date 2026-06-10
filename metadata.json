@@ -1,0 +1,6 @@
+{
+  "name": "Study Group Vault",
+  "description": "Secure study material vault, private group chatting, and personal messages for study groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
